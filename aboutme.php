@@ -13,9 +13,9 @@
 		<div class="center">
 			<h2> little facts about me</h2>
 			<ul class="center-list">
-				<li class="center-list">born and raised in albuquerque new mexico</li>
-				<li class="center-list">lived in new mexico his whole life</li>
-				<li class="center-list">has been all over the country</li>
+				<li class="html-list">born and raised in albuquerque new mexico</li>
+				<li class="html-list">lived in new mexico his whole life</li>
+				<li class="html-list">has been all over the country</li>
 				<li class="center-list">loves puppies</li>
 			</ul>
 		</div class="center">

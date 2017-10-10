@@ -1,0 +1,21 @@
+h1{
+	color: red;
+}
+li{
+	list-style:none ;
+}
+.html-list{
+	list-style-type: square;
+}
+.center{
+	width:100%;
+	list-style-position: inside;
+	text-align: center;
+	display: inline-block;
+}
+body{
+	color: blue;
+}
+input, label, textarea{
+	display: block;
+}
